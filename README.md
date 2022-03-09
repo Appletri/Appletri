@@ -1,4 +1,6 @@
 ### Hi there 👋
+Check out my latest project:
+![](https://github.com/Appletri/Appletri/blob/main/assets/weather-Jarvis.gif)
 
 <!--
 **Appletri/Appletri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
