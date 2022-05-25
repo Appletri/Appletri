@@ -3,7 +3,7 @@
 Check out my latest project:
 [Try Battleship here!](https://Appletri.github.io/battleship/dist)
 
-![incoming gif]()
+![](https://github.com/Appletri/Appletri/blob/main/assets/battleship.gif)
 
 I'm currently learning React!
 
