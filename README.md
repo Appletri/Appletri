@@ -1,9 +1,14 @@
 ### Hi there 👋
 #### My name is Tri and I am currently a junior web developer based in Utah
 Check out my latest project:
-[Try Battleship here!](https://Appletri.github.io/battleship/dist)
 
-![](https://github.com/Appletri/Appletri/blob/main/assets/battleship.gif)
+- [Try Memory Card!](https://appletri.github.io/memory-card/)
+
+![](https://github.com/Appletri/Appletri/blob/main/assets/memory-card.gif)
+
+- [Try CV Application!](https://appletri.github.io/cv-application/)
+
+![](https://github.com/Appletri/Appletri/blob/main/assets/cv-application.gif)
 
 I'm currently learning React!
 
