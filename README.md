@@ -1,16 +1,13 @@
 ### Hi there 👋
-#### My name is Tri and I am currently a junior web developer based in Utah
+#### My name is Tri and I am currently learning to be a full-stack web developer based in Utah
 Check out my latest project:
 
-- [Try Memory Card!](https://appletri.github.io/memory-card/)
+- [Try Shopping Cart!](https://appletri.github.io/shopping-cart/)
 
-![](https://github.com/Appletri/Appletri/blob/main/assets/memory-card.gif)
+![coming soon]()
 
-- [Try CV Application!](https://appletri.github.io/cv-application/)
+I'm currently creating a [photo tracking app!](https://www.theodinproject.com/lessons/node-path-javascript-where-s-waldo-a-photo-tagging-app)
 
-![](https://github.com/Appletri/Appletri/blob/main/assets/cv-application.gif)
-
-I'm currently learning React!
 
 Reach out to me on [linkedin](https://www.linkedin.com/in/triduclam)
 
