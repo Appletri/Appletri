@@ -3,6 +3,7 @@
 Check out my latest project:
 
 - [Try Shopping Cart!](https://appletri.github.io/shopping-cart/)
+- [Link to Github](https://github.com/Appletri/shopping-cart)
 
 ![](https://github.com/Appletri/Appletri/blob/main/assets/shopping-cart.gif)
 
