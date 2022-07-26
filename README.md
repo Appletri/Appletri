@@ -4,7 +4,7 @@ Check out my latest project:
 
 - [Try Shopping Cart!](https://appletri.github.io/shopping-cart/)
 
-![coming soon]()
+![](https://github.com/Appletri/Appletri/blob/main/assets/shopping-cart.gif)
 
 I'm currently creating a [photo tracking app!](https://www.theodinproject.com/lessons/node-path-javascript-where-s-waldo-a-photo-tagging-app)
 
