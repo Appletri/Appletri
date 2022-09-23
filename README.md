@@ -1,14 +1,28 @@
 ### Hi there 👋
-#### My name is Tri and I am currently learning to be a full-stack web developer based in Utah
-Check out my latest project:
+#### My name is Tri and I am currently learning to be a full-stack web developer based in Utah.
+Check out my Data Structures and Algorithms projects:
+
+- [Recursion](https://github.com/Appletri/recursion)
+- [Linked List](https://github.com/Appletri/linked-list)
+- [Binary Search Trees](https://github.com/Appletri/binary-search-trees)
+- [Graphs (Knight Travails)](https://github.com/Appletri/knight-travails)
+
+Recently made a portfolio website for my fiance, check it out here:
+
+- [Cindy's Portfolio](https://appletri.github.io/cindys-website/)
+
+
+Check out my Shopping Cart and PhotoTagging app:
 
 - [Try Shopping Cart!](https://appletri.github.io/shopping-cart/)
 - [Link to Github](https://github.com/Appletri/shopping-cart)
 
 ![](https://github.com/Appletri/Appletri/blob/main/assets/shopping-cart.gif)
 
-I'm currently creating a [photo tracking app!](https://www.theodinproject.com/lessons/node-path-javascript-where-s-waldo-a-photo-tagging-app)
+- [Try Photo Tag](https://appletri.github.io/photo-tag/)
+- [Link to Github](https://github.com/Appletri/photo-tag)
 
+![incoming gif]()
 
 Reach out to me on [linkedin](https://www.linkedin.com/in/triduclam)
 
