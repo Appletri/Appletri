@@ -5,7 +5,7 @@ Check out my Data Structures and Algorithms projects:
 - [Recursion](https://github.com/Appletri/recursion)
 - [Linked List](https://github.com/Appletri/linked-list)
 - [Binary Search Trees](https://github.com/Appletri/binary-search-trees)
-- [Graphs (Knight Travails)](https://github.com/Appletri/knight-travails)
+- [Graphs (Knight Travails)](https://github.com/Appletri/knight-travails) --- [Try Knight Travils here!](https://appletri.github.io/knight-travails/)
 
 Recently made a portfolio website for my fiance, check it out here:
 
