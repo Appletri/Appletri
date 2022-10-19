@@ -39,6 +39,7 @@ Reach out to me on [linkedin](https://www.linkedin.com/in/triduclam)
 <img src="https://img.shields.io/badge/-React-5cd9ff?style=for-the-badge&logo=react&logoColor=5cd9ff&labelColor=282828">
 <img src="https://img.shields.io/badge/-Git-f05030?style=for-the-badge&logo=git&logoColor=f05030&labelColor=282828">
 <img src="https://img.shields.io/badge/-Firebase-ffCB2B?style=for-the-badge&logo=firebase&logoColor=ffCB2B&labelColor=282828">
+<img src="https://img.shields.io/badge/-MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=4db33d&labelColor=282828">
 
 </div>
 </p><br>
