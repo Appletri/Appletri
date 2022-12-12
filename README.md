@@ -7,9 +7,9 @@ Check out my Data Structures and Algorithms projects:
 - [Binary Search Trees](https://github.com/Appletri/binary-search-trees)
 - [Graphs (Knight Travails)](https://github.com/Appletri/knight-travails) --- [Try Knight Travils here!](https://appletri.github.io/knight-travails/)
 
-Recently made a portfolio website for my fiance, check it out here:
+Recently made a portfolio website for a UX designer, check it out here:
 
-- [Cindy's Portfolio](https://appletri.github.io/cindys-website/)
+- [UX Designer Portfolio](https://appletri.github.io/cindys-website/)
 
 
 Check out my Shopping Cart and PhotoTagging app:
