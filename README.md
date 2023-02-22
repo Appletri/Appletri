@@ -1,5 +1,14 @@
 ### Hi there 👋
 #### My name is Tri and I am currently learning to be a full-stack web developer based in Utah.
+
+Latest Projects:
+- A full stack inventory application 
+
+  [Inventory App](https://github.com/Appletri/inventory-app)
+- An express authentication application(Currently in Development) 
+
+  [Members Only](https://github.com/Appletri/members-only)
+
 Check out my Data Structures and Algorithms projects:
 
 - [Recursion](https://github.com/Appletri/recursion)
@@ -12,17 +21,12 @@ Recently made a portfolio website for a UX designer, check it out here:
 - [UX Designer Portfolio](https://appletri.github.io/cindys-website/)
 
 
-Check out my Shopping Cart and PhotoTagging app:
+Check out my Shopping Cart:
 
 - [Try Shopping Cart!](https://appletri.github.io/shopping-cart/)
 - [Link to Github](https://github.com/Appletri/shopping-cart)
 
 ![](https://github.com/Appletri/Appletri/blob/main/assets/shopping-cart.gif)
-
-- [Try Photo Tag](https://appletri.github.io/photo-tag/)
-- [Link to Github](https://github.com/Appletri/photo-tag)
-
-![incoming gif]()
 
 Reach out to me on [linkedin](https://www.linkedin.com/in/triduclam)
 
