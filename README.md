@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### My name is Tri and I am currently learning to be a full-stack web developer based in Utah.
+[2022 Demo Reel](https://www.youtube.com/watch?v=KsRK876ajjY)
 
 Latest Projects:
 - A full stack inventory application 
