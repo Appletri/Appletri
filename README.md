@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### My name is Tri and I am currently learning to be a full-stack web developer based in Utah.
 [My Website](https://www.triduclam.com)
+
 [2022 Demo Reel](https://www.youtube.com/watch?v=KsRK876ajjY)
 
 Latest Projects:
