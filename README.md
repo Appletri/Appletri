@@ -9,6 +9,8 @@ Latest Projects:
 
   [Inventory App](https://github.com/Appletri/inventory-app)
   
+- A full stack photo tagging game
+  
   [Phototag](https://github.com/Appletri/photo-tag)
   
 Check out my Data Structures and Algorithms projects:
