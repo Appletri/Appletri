@@ -8,10 +8,8 @@ Latest Projects:
 - A full stack inventory application 
 
   [Inventory App](https://github.com/Appletri/inventory-app)
-- An express authentication application(Currently in Development) 
-
-  [Members Only](https://github.com/Appletri/members-only)
-
+  [Phototag](https://github.com/Appletri/photo-tag)
+  
 Check out my Data Structures and Algorithms projects:
 
 - [Recursion](https://github.com/Appletri/recursion)
