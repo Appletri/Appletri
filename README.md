@@ -8,6 +8,7 @@ Latest Projects:
 - A full stack inventory application 
 
   [Inventory App](https://github.com/Appletri/inventory-app)
+  
   [Phototag](https://github.com/Appletri/photo-tag)
   
 Check out my Data Structures and Algorithms projects:
